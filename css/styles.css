@@ -502,6 +502,7 @@ button {
 .footer-subscribe-wrapper {
     display: flex;
     align-items: center;
+    gap: 24px;
 }
 
 .footer-input {
@@ -511,7 +512,7 @@ button {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     padding: 15px 16px;
     background-color: transparent;
-    margin-right: 24px;
+
 }
 
 .footer-btn {
